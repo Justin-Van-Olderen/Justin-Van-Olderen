@@ -13,7 +13,9 @@
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-justin-van-olderen.vercel.app/now-playing" alt="DaKurisu Spotify Playing" width="350" />](https://open.spotify.com/user/q8awbi44ajpldonkhj4zkwda1?si=ylmAWt0_SuKfIo2L7MDqdw)
+<a href="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing/now-playing?open%22%3E
+    <img src="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 ### Connect with me:
 
