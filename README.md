@@ -13,7 +13,7 @@
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.justin-van-olderen.vercel.app//api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ylmAWt0_SuKfIo2L7MDqdw)
+[<img src="https://novatorem.justin-van-olderen.vercel.app//api/spotify-playing" alt="DaKurisu Spotify Playing" width="350" />](https://open.spotify.com/user/ylmAWt0_SuKfIo2L7MDqdw)
 
 ### Connect with me:
 
