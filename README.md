@@ -13,8 +13,8 @@
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Spotify Playing 🎧
-<a href="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing/now-playing?open%22%3E
-    <img src="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing?open%22%3E
+    <img src="https://now-playing-profile.justin-van-olderen.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 ### Connect with me:
